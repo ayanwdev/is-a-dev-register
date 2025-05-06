@@ -1,0 +1,10 @@
+{
+    "description": "AyanW's personal website",
+    "owner": {
+        "username": "ayanwdev",
+        "email": "ayanxdev@gmail.com"
+    },
+    "records": {
+        "CNAME": "ayanwdev.vercel.app"
+    }
+}
